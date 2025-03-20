@@ -23,6 +23,9 @@ Técnica em Redes de Computadores pelo Centro Federal de Educação Tecnológica
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
+**Estudando Atualmente**
+<img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img align="center" alt="Rafa-HTML" height="40" width="50">
+
 **🌐 Idiomas**
 - Português Fluente
 - Inglês Intermediário
