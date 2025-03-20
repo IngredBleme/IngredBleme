@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=IngredBleme&color=006bed)
 
 ## Sobre mim
-
-
+Técnica em Redes de Computadores pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
 
 ## Minhas Skills
 
@@ -23,6 +22,10 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+**Projetos**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IngredBleme&repo=automacao-Planilha-Quantificacao&bg_color=000&border_color=fff&show_icons=true&icon_color=000020&title_color=fb2cbc&text_color=FFF)](https://github.com/IngredBleme/automacao-Planilha-Quantificacao)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IngredBleme&repo=rastreamento-Veicular&bg_color=000&border_color=fff&show_icons=true&icon_color=000020&title_color=fb2cbc&text_color=FFF)](https://github.com/IngredBleme/rastreamento-Veicular)
 
 
 <br/>
